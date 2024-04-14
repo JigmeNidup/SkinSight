@@ -1,0 +1,25 @@
+Disease Names
+1)Acne and Rosacea
+2)Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions
+3)Atopic Dermatitis 
+4)Benign keratosis
+5)Cellulitis Impetigo and other Bacterial Infections
+6)Dermatofibroma
+7)Eczema 
+8)Exanthems and Drug Eruptions
+9)Herpes HPV and other STDs 
+10)Light Diseases and Disorders of Pigmentation
+11)Lupus and other Connective Tissue diseases
+12)Melanocytic nevus
+13)Melanoma Skin Cancer Nevi and Moles
+14)Poison Ivy Photos and other Contact Dermatitis
+15)Psoriasis pictures Lichen Planus and related diseases
+16)Seborrheic Keratoses and other Benign Tumors
+17)Squamous cell carcinoma
+18)Systemic Disease
+19)Tinea Ringworm Candidiasis and other Fungal Infections
+20)Urticaria Hives
+21)Vascular lesion
+22)Vascular Tumors
+21)Vasculitis 
+22)Warts Molluscum and other Viral Infections

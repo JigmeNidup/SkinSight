@@ -1,0 +1,64 @@
+Pages requried:
+
+Home Page
+>Nav bar
+>>Profile image for logged in users
+>Banner
+>Short Description of Product
+>Link to Diagnosis Page (button>)
+>Top Posts
+>Footer
+
+Login Page
+>Regular Login
+>Login For Doctors
+
+About Us Page:
+
+Community Page:
+>Latest
+>Top Voted
+>Search Post(name/tags)
+>Posts
+>>Username
+>>Profile Pic
+>>Post
+>>Tags
+>>Upvote
+>>Chats
+
+Resource Page:
+>Skin Diseases
+>>Name of Disease
+>>Some Pictures
+>>Descriptions
+>>Symptoms
+>>Treatment Options
+>>Reference Links
+
+Diagnosis Page:
+>Upload Image
+>Diagnosis Result
+>Recommendations (Related Posts/Docters)
+
+Profile Page(Regular):
+>Sub Sections:
+>>Diagnosis History/Records
+>>Chats (Contact List)
+>>Community Posts
+>>Saved Posts and Favourites
+
+Profile Page(Docters):
+>Sub Sections:
+>>Chats (Contact List) with Patients
+>>Community Posts
+>>Saved Posts and Favourites
+>>Qualification Details (Certificates)
+
+Admin Page:
+>Login
+>User Verification(Docters Qualification)
+>Community Moderation (Delete posts and give reasons)
+>Resource Management
+>Web Analitics (Userbase data/ website traffic, etc...)
+
